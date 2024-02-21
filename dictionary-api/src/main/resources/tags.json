@@ -1,0 +1,26 @@
+[
+    {
+        "tagId": 1,
+        "tagName": "季節"
+    },
+    {
+        "tagId": 2,
+        "tagName": "時期"
+    },
+    {
+        "tagId": 3,
+        "tagName": "春"
+    },
+    {
+        "tagId": 4,
+        "tagName": "夏"
+    },
+    {
+        "tagId": 5,
+        "tagName": "秋"
+    },
+    {
+        "tagId": 6,
+        "tagName": "冬"
+    }
+]

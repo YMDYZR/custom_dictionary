@@ -1,0 +1,110 @@
+[
+	{
+		"termTagId": 1,
+		"term": {
+			"termId": 1
+		},
+		"tag": {
+			"tagId": 1
+		}
+	},
+	{
+		"termTagId": 2,
+		"term": {
+			"termId": 2
+		},
+		"tag": {
+			"tagId": 1
+		}
+	},
+	{
+		"termTagId": 3,
+		"term": {
+			"termId": 3
+		},
+		"tag": {
+			"tagId": 1
+		}
+	},
+	{
+		"termTagId": 4,
+		"term": {
+			"termId": 4
+		},
+		"tag": {
+			"tagId": 1
+		}
+	},
+	{
+		"termTagId": 5,
+		"term": {
+			"termId": 1
+		},
+		"tag": {
+			"tagId": 2
+		}
+	},
+	{
+		"termTagId": 6,
+		"term": {
+			"termId": 2
+		},
+		"tag": {
+			"tagId": 2
+		}
+	},
+	{
+		"termTagId": 7,
+		"term": {
+			"termId": 3
+		},
+		"tag": {
+			"tagId": 2
+		}
+	},
+	{
+		"termTagId": 8,
+		"term": {
+			"termId": 4
+		},
+		"tag": {
+			"tagId": 2
+		}
+	},
+	{
+		"termTagId": 9,
+		"term": {
+			"termId": 1
+		},
+		"tag": {
+			"tagId": 3
+		}
+	},
+	{
+		"termTagId": 10,
+		"term": {
+			"termId": 2
+		},
+		"tag": {
+			"tagId": 4
+		}
+	},
+	{
+		"termTagId": 11,
+		"term": {
+			"termId": 3
+		},
+		"tag": {
+			"tagId": 5
+		}
+	},
+	{
+		"termTagId": 12,
+		"term": {
+			"termId": 4
+		},
+		"tag": {
+			"tagId": 6
+		}
+	}
+]
