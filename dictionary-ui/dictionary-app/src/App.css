@@ -1,0 +1,15 @@
+.verticalSplit {
+    position: relative;
+    width: 800px;
+    height: 600px;
+    margin-left: 40px;
+}
+
+.Mysidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 100%;
+}
+
